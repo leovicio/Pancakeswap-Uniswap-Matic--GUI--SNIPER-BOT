@@ -1,4 +1,4 @@
-# Pancakeswap and Uniswap trading client (and bot) 
+# GUI Pancakeswap and Uniswap trading client (and bot) 
 <H4>(MOST ADVANCE TRADING BOT SUPPORT WINDOWS LINUX MAC)</H4>
 
 A Pancakeswap and Uniswap trading client (and bot) with market orders, limit orders, stop-loss, custom gas strategies, a GUI and much more.
