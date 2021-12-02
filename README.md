@@ -88,6 +88,7 @@ A Pancakeswap and Uniswap trading client (and bot) with market orders, limit ord
 <b>Tokentokennumerator (Experimental!)</b>: This value lets you trade ERC tokens with each other. The code to create the value is as followed:
 <pre>if pricetoken1usd > ((token1high + token1low) / 2) and pricetoken2usd < ((token2high + token2low) / 2):
   token1totoken2 = ((pricetoken1usd - token1low) / (token1high - token1low)) / ((pricetoken2usd - token2low) / (token2high - token2low))</pre>
+  
     If you dont want to wait till the token1 is sold for the maincoinoption, because you are uncertain whether token2 will still be at this price level or think that token1 will     drop, you can use this function. To use this function, "Trade with ERC" should be activated for at least 2 tokens, and the highs and lows should be set seriously.
     
   As an example, if the current price of token1 is $0.9 and its set "high"=$1 and "low"=$0, the value of this token is seen as "90%". Token2 also has a high of $1, but the         current price is 0.2$, value of this token is seen as 20%. The tokentokenmnumerator is set at 3.3. If we divide the 90% by the 20%, we get 4.5, which is higher than 3.3, which   means that token1 gets traded for token2 instantly. If the tokentokennumerator was set to 5, the swap would not happen.
@@ -97,17 +98,20 @@ A Pancakeswap and Uniswap trading client (and bot) with market orders, limit ord
 
 
 # Screenshot
-<a href="https://ibb.co/rZ5jwTz"><img src="https://i.ibb.co/BgTpCdQ/Skq-YCo-Pa-RGm4-Iv-JEm-WF5-Pancake-Swap-vs-Uniswap.png" alt="Skq-YCo-Pa-RGm4-Iv-JEm-WF5-Pancake-Swap-vs-Uniswap" border="0"></a><br /><a target='_blank' href='https://nl.imgbb.com/'>afbeeldinge</a><br />
+
+<a href="https://ibb.co/CJmgG9M"><img src="https://i.ibb.co/8zNqZxd/2.png" alt="2" border="0"></a>
+
+
  
 
  
 ## Youtube Videos 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zFm15cuYD-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/zFm15cuYD-c
  
  - [How To Download & Install panUNIswap-BOT]()
 
-
+<a href="https://ibb.co/rZ5jwTz"><img src="https://i.ibb.co/BgTpCdQ/Skq-YCo-Pa-RGm4-Iv-JEm-WF5-Pancake-Swap-vs-Uniswap.png" alt="Skq-YCo-Pa-RGm4-Iv-JEm-WF5-Pancake-Swap-vs-Uniswap" border="0"></a><br /><a target='_blank' href='https://nl.imgbb.com/'>afbeeldinge</a><br />
 
 <br> </br>
 <H2>Disclosure</H2>
