@@ -107,10 +107,8 @@ A Pancakeswap and Uniswap trading client (and bot) with market orders, limit ord
  
 ## Youtube Videos 
 
-## WATCH VIDEO == ttps://youtu.be/zFm15cuYD-c
+# WATCH VIDEO == https://youtu.be/zFm15cuYD-c
  
-
-
 <a href="https://ibb.co/rZ5jwTz"><img src="https://i.ibb.co/BgTpCdQ/Skq-YCo-Pa-RGm4-Iv-JEm-WF5-Pancake-Swap-vs-Uniswap.png" alt="Skq-YCo-Pa-RGm4-Iv-JEm-WF5-Pancake-Swap-vs-Uniswap" border="0"></a><br /><a target='_blank' href='https://nl.imgbb.com/'>afbeeldinge</a><br />
 
 <br> </br>
