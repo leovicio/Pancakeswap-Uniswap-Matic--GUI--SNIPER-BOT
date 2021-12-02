@@ -58,19 +58,33 @@ A Pancakeswap and Uniswap trading client (and bot) with market orders, limit ord
 <H2>Functions</H2>
 
 <b>Main coin/token</b>: The token or coin you want to trade tokens for and with
+
 <b>Token address</b>: Fill the token address of the token you want to trade (such as 0x0000000000000000000000000000000000000000)
+
 <b>Notes</b>: A place to fill in notes, such as the name of the token
+
 <b>Sell($)</b>: The price you want the trader to sell the token for (0.01 = 1 dollar cent)
+
 <b>Buy($)</b>: The price you want the trader to buy the token for (0.01 = 1 dollar cent)
+
 <b>Trade w/ main</b>: Toggle if you want to activate trading with your main-coin/token
+
 <b>Trade w/ token (Experimental!)</b>: Toggle if you want to trade the token with other BEP20 tokens of which this option is activated (see tokentokennumerator)
+
 <b>Stoploss</b>: Toggle to activate stoploss (0.01 = 1 dollar cent)
+
 <b>Second(s) between checking price</b>: Standard is 4 seconds. With a infura server with max 100.000tx/day 4 seconds is good for 2 activated token 24hr/day
+
 <b>Seconds waiting between trades</b>: depends on how fast transactions finalize
+
 <b>Max slippage</b>: The maximum slippage you want to allow while trading (3 = 3%)
+
 <b>$ to keep in ETH/BNB after trade</b>: The amount of ETH/BNB you want to keep after each trade (excluding transaction fees) in terms of $.
+
 <b>GWEI</b>: The amount of gas you want to use for each trade (5 GWEI is fine for PCS). When trading on uniswap, This becomes the max GWEI you want to pay on the eth network, the GWEI will be determined from ethgasstation.com
+
 <b>Different deposit address</b>: Use this if you want the swap output to go to a different address (without extra fees).
+
 <b>Tokentokennumerator (Experimental!)</b>: This value lets you trade ERC tokens with each other. The code to create the value is as followed:
 <pre>if pricetoken1usd > ((token1high + token1low) / 2) and pricetoken2usd < ((token2high + token2low) / 2):
   token1totoken2 = ((pricetoken1usd - token1low) / (token1high - token1low)) / ((pricetoken2usd - token2low) / (token2high - token2low))</pre>
