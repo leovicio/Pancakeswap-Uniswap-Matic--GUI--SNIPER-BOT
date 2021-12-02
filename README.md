@@ -1,4 +1,5 @@
-# Pancakeswap and Uniswap trading client (and bot)
+# Pancakeswap and Uniswap trading client (and bot) 
+(SUPPORT WINDOWS LINUX MAC)
 
 A Pancakeswap and Uniswap trading client (and bot) with market orders, limit orders, stop-loss, custom gas strategies, a GUI and much more.
 
@@ -51,7 +52,9 @@ A Pancakeswap and Uniswap trading client (and bot) with market orders, limit ord
 - python3
 - pip3 install web3     
 - pip3 install pyetherbalance 
-- pip3 install pycoingecko    
+- pip3 install pycoingecko   
+
+ALSO YOU CAN COMPILE BOT TO EXE WITH PYINSTALLER
 
 
 <br> </br>
