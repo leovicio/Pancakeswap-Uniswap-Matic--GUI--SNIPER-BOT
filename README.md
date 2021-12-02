@@ -1,10 +1,11 @@
 # Pancakeswap and Uniswap trading client (and bot)
+
 A Pancakeswap and Uniswap trading client (and bot) with market orders, limit orders, stop-loss, custom gas strategies, a GUI and much more.
 
 <a href="https://ibb.co/6Hs7WPt"><img src="https://i.ibb.co/QPm3KNH/pan-UNIswap-bot.jpg" alt="pan-UNIswap-bot" border="0"></a>
 
 
-[![Version](https://img.shields.io/badge/PANUNISWAP-BOT -1.0.0-brightgreen.svg?maxAge=259200)]()
+[![Version](https://img.shields.io/badge/PANUNISWAP-BOT-1.0.0-brightgreen.svg?maxAge=259200)]()
 [![Version](https://img.shields.io/badge/Codename-BlackHat-red.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-WINDOWS-orange.svg)]()
@@ -30,9 +31,6 @@ A Pancakeswap and Uniswap trading client (and bot) with market orders, limit ord
 - set stop-less price
 - Speed adjustable
 - The program now determines the name and decimals of the token automatically
-
-
-
 
 
 
