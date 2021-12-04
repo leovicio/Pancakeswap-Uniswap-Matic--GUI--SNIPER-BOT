@@ -1,7 +1,7 @@
 # GUI Pancakeswap 2 and Uniswap 3 trading client (and bot)
 <H4>(MOST ADVANCE TRADING BOT SUPPORT WINDOWS LINUX MAC)</H4>
 
-<H3>(AUTO BUY TOKEN ON LUNCH AFTER ADD LIQUIDITY)</H3>
+<H2>(AUTO BUY TOKEN ON LUNCH AFTER ADD LIQUIDITY)</H2>
 
 A Pancakeswap and Uniswap trading client (and bot) with market orders, limit orders, stop-loss, custom gas strategies, a GUI and much more.
 
