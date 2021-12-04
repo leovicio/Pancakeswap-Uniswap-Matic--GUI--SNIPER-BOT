@@ -1,4 +1,4 @@
-# GUI Pancakeswap2 and Uniswap3 trading client (and bot) 
+# GUI Pancakeswap 2 and Uniswap 3 trading client (and bot) 
 <H4>(MOST ADVANCE TRADING BOT SUPPORT WINDOWS LINUX MAC)</H4>
 
 <H3>(AUTO BUY TOKEN ON LUNCH AFTER ADD LIQUIDITY)</H3>
@@ -18,7 +18,7 @@ A Pancakeswap and Uniswap trading client (and bot) with market orders, limit ord
 
 
 <H2> THIS IS FREE VERSION OF PANUNISWAP-BOT FOR WINDOWS LINUX MAC</H2>
-<H4> IN FREE VERSION CODE IS OBFUSCATION AND ORGINAL CODE IS FOR SALE 2000$ </H4>
+<H4> IN PREMIUM VERSION CODE IS FOR SALE 2000$ </H4>
 <H4> FOR PREMIUM VERSION AND MORE INFORMATION EMAIL ME </H4>
 
 
