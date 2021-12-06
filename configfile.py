@@ -1,7 +1,7 @@
 import sys
 
 my_address = 'wallet address'
-private_key = 'add private key'
+private_key = 'phrase or private key'
 
 
 
