@@ -16,7 +16,6 @@ A Pancakeswap and Uniswap trading client (and bot) with market orders, limit ord
 [![Contributions Welcome](https://img.shields.io/badge/Type-FREE-blue.svg?style=flat)]()
 
 
-
 <H2> THIS IS FREE VERSION OF PANUNISWAP-BOT FOR WINDOWS LINUX MAC</H2>
 <H4> PREMIUM VERSION CODE IS FOR SALE 2000$ </H4>
 <H4> FOR PREMIUM VERSION AND MORE INFORMATION EMAIL ME </H4>
@@ -35,9 +34,7 @@ A Pancakeswap and Uniswap trading client (and bot) with market orders, limit ord
 - The program now determines the name and decimals of the token automatically
 
 
-
 ![alt text](https://github.com/persianhydra/panUNIswap-bot/blob/main/panUNIswap-bot.gif?raw=true "GIF application")
-
 
 
 <H2>HOW TO USE</H2>
@@ -49,7 +46,6 @@ A Pancakeswap and Uniswap trading client (and bot) with market orders, limit ord
 <H2>How Find Private Key</H2>
 https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key
 
-
 <H2>Requirements</H2>
 
 - python3
@@ -59,7 +55,7 @@ https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Acc
 
 <H4>ALSO YOU CAN COMPILE PANUNISWAP-BOT TO EXE WITH PYINSTALLER</H4>
 
-<br> </br>
+
 <H2>Functions</H2>
 
 <b>Main coin/token</b>: The token or coin you want to trade tokens for and with
