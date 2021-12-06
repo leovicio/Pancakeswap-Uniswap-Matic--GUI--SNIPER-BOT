@@ -46,6 +46,8 @@ A Pancakeswap and Uniswap trading client (and bot) with market orders, limit ord
 2. Open "configfile.py" (with notepad) on line 3 and 4 add wallet address and phrase or private key.
 3. Run python3 panUNIswap_bot.py
 
+<H2>How Find Private Key</H2>
+https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key
 
 
 <H2>Requirements</H2>
