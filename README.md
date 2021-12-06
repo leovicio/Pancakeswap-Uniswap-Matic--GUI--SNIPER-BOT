@@ -111,9 +111,9 @@ If you dont want to wait till the token1 is sold for the maincoinoption, because
  
 <a href="https://ibb.co/rZ5jwTz"><img src="https://i.ibb.co/BgTpCdQ/Skq-YCo-Pa-RGm4-Iv-JEm-WF5-Pancake-Swap-vs-Uniswap.png" alt="Skq-YCo-Pa-RGm4-Iv-JEm-WF5-Pancake-Swap-vs-Uniswap" border="0"></a><br /><a target='_blank' href='https://nl.imgbb.com/'></a><br />
 
-<br> </br>
+
 <H2>Disclosure</H2>
-I own some of the tokens portayed in the gif. These tokens are used only for example purposes and are not meant to be an endorsement. I am not affiliated with these tokens or any subsidiaries. Use the application at your own risk, I am not in any way responsible for losses.
+I own some of the tokens portayed in the gif. These tokens are used only for example purposes and are not meant to be an endorsement. I am not affiliated with these tokens or any subsidiaries.
 
   
 
