@@ -43,9 +43,8 @@ A Pancakeswap and Uniswap trading client (and bot) with market orders, limit ord
 <H2>HOW TO USE</H2>
 
 1. An ethereum/bsc address.
-2. Open "configfile.py" (with notepad) on line 3 and 4 add wallet address and private key.
-3. run python3 panUNIswap_bot.py
-4. Make sure configfile.py and panUNIswap-bot.py are in the same folder.
+2. Open "configfile.py" (with notepad) on line 3 and 4 add wallet address and phrase or private key.
+3. Run python3 panUNIswap_bot.py
 
 
 
