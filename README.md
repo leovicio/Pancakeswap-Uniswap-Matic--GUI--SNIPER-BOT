@@ -59,7 +59,6 @@ https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Acc
 
 <H4>ALSO YOU CAN COMPILE PANUNISWAP-BOT TO EXE WITH PYINSTALLER</H4>
 
-
 <br> </br>
 <H2>Functions</H2>
 
@@ -102,13 +101,11 @@ If you dont want to wait till the token1 is sold for the maincoinoption, because
 
 
 
-
 # Screenshot
 
 <a href="https://ibb.co/CJmgG9M"><img src="https://i.ibb.co/8zNqZxd/2.png" alt="2" border="0"></a>
 
 
- 
 
  
 ## Youtube Videos 
