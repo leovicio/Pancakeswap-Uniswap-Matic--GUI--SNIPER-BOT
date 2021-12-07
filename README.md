@@ -1,6 +1,7 @@
 # GUI Pancakeswap 2 and Uniswap 3 trading client (and bot)
 <H4>(MOST ADVANCE TRADING BOT SUPPORT WINDOWS LINUX MAC)</H4> 
 
+<H1>UPDATE: MUTI TRADE TOKEN ENABLE ,TRADE 7 TOKEN IN SAME TIME </H1>
 <H2>(AUTO BUY TOKEN ON LUNCH AFTER ADD LIQUIDITY)</H2>
 
 A Pancakeswap and Uniswap trading client (and bot) with market orders, limit orders, stop-loss, custom gas strategies, a GUI and much more.
