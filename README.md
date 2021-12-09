@@ -1,7 +1,7 @@
 # GUI Pancakeswap 2 and Uniswap 3 trading client (and bot)
 <H4>(MOST ADVANCE TRADING BOT SUPPORT WINDOWS LINUX MAC)</H4> 
 
-<H2>UPDATE:PREMIUM VERISON ADD Fantom Matic Solona KuCoin Chain OKEXchain </H2>
+<H2>UPDATE:IN PREMIUM VERISON ADD Fantom Matic Solona KuCoin Chain OKEXchain </H2>
 
 <H4>UPDATE: MUTI TRADE TOKEN ENABLE ,TRADE 10 TOKEN IN SAME TIME </H4>
 
