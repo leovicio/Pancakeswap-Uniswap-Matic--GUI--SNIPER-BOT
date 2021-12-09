@@ -28,8 +28,8 @@ A Pancakeswap and Uniswap trading client (and bot) with market orders, limit ord
 <H3>WHAT IS UNIQUE PANUNISWAP-BOT</h3>
 
 - Support Windows 10 ,Linux and Mac OS
-- Add uniswap V3 & pancakeswap v2 support
-- Added multiple DEXs (pancakeswap v1 pancakeswap v2 Uniswap v1 Uniswap v2 Uniswap v3)
+- Add uniswap V3 & pancakeswap v2 Fantom Matic Solona KuCoin Chain OKEXchain 
+- Added multiple DEXs
 - Added BNB ETH BUSD DAI USDC USDT WBTC as maincoin option
 - Force Buy and Force Sell buttons, when clicked it will buy or sell with your chosen settings (excluding limit price)
 - set manual SLIPPAGE
