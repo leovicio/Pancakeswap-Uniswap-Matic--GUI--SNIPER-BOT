@@ -11,7 +11,7 @@ A Pancakeswap and Uniswap trading client (and bot) with market orders, limit ord
 
 <a href="https://ibb.co/6Hs7WPt"><img src="https://i.ibb.co/QPm3KNH/pan-UNIswap-bot.jpg" alt="pan-UNIswap-bot" border="0"></a>
  
- 
+
 [![Version](https://img.shields.io/badge/Codename-BlackHat-red.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-WINDOWS-orange.svg)]()
