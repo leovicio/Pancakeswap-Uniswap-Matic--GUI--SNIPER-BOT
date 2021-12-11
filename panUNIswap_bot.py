@@ -3,10 +3,10 @@
 
 
 import datetime
-import uni3
 from itertools import permutations
 import time
 from swap import Uniswap
+import uni3
 from web3 import Web3, middleware, _utils
 from web3.gas_strategies.time_based import fast_gas_price_strategy, glacial_gas_price_strategy
 from pycoingecko import CoinGeckoAPI
@@ -33,7 +33,7 @@ sys.path.insert(0, './')
 import configfile
 import json
 import requests
-
+ 
 sys.setrecursionlimit(1500)
 
 QtWidgets.QApplication.setAttribute(QtCore.Qt.AA_EnableHighDpiScaling, True)  # enable highdpi scaling
