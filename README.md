@@ -88,7 +88,7 @@ https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Acc
 
 <b>GWEI</b>: The amount of gas you want to use for each trade (5 GWEI is fine for PCS). When trading on uniswap, This becomes the max GWEI you want to pay on the eth network, the GWEI will be determined from ethgasstation.com
 
-<b>Different deposit address</b>: Use this if you want the swap output to go to a different address (without extra fees).
+<b>Different deposit address</b>: Use this if you want the swap output to go to a different address (without extra fees)
 
 <b>Tokentokennumerator (Experimental!)</b>: This value lets you trade ERC tokens with each other. The code to create the value is as followed:
 <pre>if pricetoken1usd > ((token1high + token1low) / 2) and pricetoken2usd < ((token2high + token2low) / 2):
