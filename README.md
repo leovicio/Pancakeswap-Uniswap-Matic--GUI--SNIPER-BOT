@@ -1,16 +1,13 @@
 # GUI Pancakeswap 2 and Uniswap 3 trading client (and bot)
 <H4>(MOST ADVANCE TRADING BOT SUPPORT WINDOWS LINUX MAC)</H4> 
 
-<H2>UPDATE:IN PREMIUM VERISON ADD Fantom Matic Solona KuCoin Chain OKEXchain </H2>
+<H2>(AUTO BUY TOKEN ON LUNCH AFTER ADD LIQUIDITY)</H2>
 
 <H4>UPDATE: MUTI TRADE TOKEN ENABLE ,TRADE 10 TOKEN IN SAME TIME </H4>
-
-<H2>(AUTO BUY TOKEN ON LUNCH AFTER ADD LIQUIDITY)</H2>
  
 A Pancakeswap and Uniswap trading client (and bot) with market orders, limit orders, stop-loss, custom gas strategies, a GUI and much more.
 
 <a href="https://ibb.co/6Hs7WPt"><img src="https://i.ibb.co/QPm3KNH/pan-UNIswap-bot.jpg" alt="pan-UNIswap-bot" border="0"></a>
-
 
 [![Version](https://img.shields.io/badge/Codename-BlackHat-red.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
