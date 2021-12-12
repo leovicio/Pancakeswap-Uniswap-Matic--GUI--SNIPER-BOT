@@ -32,7 +32,7 @@ A Pancakeswap and Uniswap trading client (and bot) with market orders, limit ord
 - Added multiple DEXs
 - Added BNB ETH BUSD DAI USDC USDT WBTC as maincoin option
 - Force Buy and Force Sell buttons, when clicked it will buy or sell with your chosen settings (excluding limit price)
-- set manual SLIPPAGE
+- set manual SLIPPAGE 
 - set stop-less price
 - Speed adjustable
 - The program now determines the name and decimals of the token automatically
