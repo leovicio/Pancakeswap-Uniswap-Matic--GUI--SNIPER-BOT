@@ -3,8 +3,9 @@
 
 <H2>(AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY)</H2>
 
-<H4>UPDATE: ADD SUPPORT TRUST WALLET WITH PHRASE KEY </H4>
 <H4>UPDATE: MUTI TRADE TOKEN ENABLE ,TRADE 10 TOKEN IN SAME TIME </H4>
+<H5>UPDATE: ADD SUPPORT TRUST WALLET WITH PHRASE KEY </H5>
+
  
 A Pancakeswap and Uniswap trading client (and bot) with market orders, limit orders, stop-loss, custom gas strategies, a GUI and much more.
 
