@@ -15,7 +15,7 @@ A Pancakeswap and Uniswap trading client (and bot) with market orders, limit ord
 [![Available](https://img.shields.io/badge/Available-LINUX-orange.svg?maxAge=259200)]()
 [![Documentation](https://img.shields.io/badge/PANUNISWAP-BOT-red.svg?maxAge=259200)]()
 [![Contributions Welcome](https://img.shields.io/badge/Type-FREE-blue.svg?style=flat)]()
-
+ 
 
 <H2> THIS IS FREE VERSION OF PANUNISWAP-BOT FOR WINDOWS LINUX MAC</H2>
 <H4> PREMIUM VERSION CODE IS FOR SALE 2000$ </H4>
