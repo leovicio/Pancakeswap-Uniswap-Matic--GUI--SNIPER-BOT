@@ -39,7 +39,7 @@ A Pancakeswap and Uniswap trading client (and bot) with market orders, limit ord
 
 
 ![alt text](https://github.com/persianhydra/panUNIswap-bot/blob/main/panUNIswap-bot.gif?raw=true "GIF application")
-
+ 
 
 <H2>HOW TO USE</H2>
 
