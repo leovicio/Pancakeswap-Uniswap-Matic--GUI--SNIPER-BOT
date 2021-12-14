@@ -3,6 +3,7 @@
 
 <H2>(AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY)</H2>
 
+<H4>UPDATE: ADD SUPPORT TRUST WALLET WITH PHRASE KEY </H4>
 <H4>UPDATE: MUTI TRADE TOKEN ENABLE ,TRADE 10 TOKEN IN SAME TIME </H4>
  
 A Pancakeswap and Uniswap trading client (and bot) with market orders, limit orders, stop-loss, custom gas strategies, a GUI and much more.
@@ -43,6 +44,8 @@ A Pancakeswap and Uniswap trading client (and bot) with market orders, limit ord
 1. An ethereum/bsc address.
 2. Open "configfile.py" (with notepad) on line 3 and 4 add wallet address and phrase or private key.
 3. Run python3 panUNIswap_bot.py
+
+(Also you can use phrase key just use space between words)
 
 <H2>How Find Private Key</H2>
 https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key
