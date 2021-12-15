@@ -24,7 +24,7 @@ A Pancakeswap and Uniswap trading client (and bot) with market orders, limit ord
 <H4> PREMIUM VERSION CODE IS FOR SALE 2000$ </H4>
 <H4> FOR PREMIUM VERSION AND MORE INFORMATION EMAIL ME </H4>
 
-  
+
 <H3>WHAT IS UNIQUE PANUNISWAP-BOT</h3>
  
 - Support Windows 10 ,Linux and Mac OS
@@ -69,7 +69,7 @@ https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Acc
 <b>Token address</b>: Fill the token address of the token you want to trade (such as 0x0000000000000000000000000000000000000000)
 
 <b>Notes</b>: A place to fill in notes, such as the name of the token
-
+ 
 <b>Sell($)</b>: The price you want the trader to sell the token for (0.01 = 1 dollar cent)
 
 <b>Buy($)</b>: The price you want the trader to buy the token for (0.01 = 1 dollar cent)
