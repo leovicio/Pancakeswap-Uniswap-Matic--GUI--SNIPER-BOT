@@ -33,7 +33,7 @@ sys.path.insert(0, './')
 import configfile
 import json
 import requests
- 
+
 sys.setrecursionlimit(1500)
 
 QtWidgets.QApplication.setAttribute(QtCore.Qt.AA_EnableHighDpiScaling, True)  # enable highdpi scaling
