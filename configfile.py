@@ -4,10 +4,8 @@ my_address = 'wallet address'
 private_key = 'private key'
 
 
-
 max_slippage ='0.03'
 incaseofbuyinghowmuch='1'
-
 
 ethtokeep='5'
 
