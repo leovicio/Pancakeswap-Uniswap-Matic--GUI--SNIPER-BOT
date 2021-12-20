@@ -13,7 +13,7 @@ from eth_typing import AnyAddress #line:21
 ETH_ADDRESS ="0x0000000000000000000000000000000000000000"#line:23
 logger =logging .getLogger (__name__ )#line:25
 AddressLike =Union [Address ,ChecksumAddress ,ENS ]#line:29
-try :#line:31
+try :#line:31 
     class InvalidToken (Exception ):#line:32
         def __init__ (O000O00000000OOOO ,O0O0OO00OO00000OO :Any )->None :#line:33
             Exception .__init__ (O000O00000000OOOO ,f"Invalid token address: {O0O0OO00OO00000OO}")#line:34
