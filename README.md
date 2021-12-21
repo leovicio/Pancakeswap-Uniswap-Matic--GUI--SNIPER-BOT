@@ -1,4 +1,4 @@
-# GUI Pancakeswap 2 and Uniswap 3 SNIPER BOT
+# GUI Pancakeswap 2 and Uniswap 3 SNIPER BOT🥇🏆🥇
 <H5>(MOST ADVANCE TRADING BOT SUPPORT WINDOWS LINUX MAC)</H5>
 
 <H2>(AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY)</H2>
@@ -19,7 +19,7 @@ A Pancakeswap and Uniswap trading client (and bot) with market orders, limit ord
 
 <H4> FOR PREMIUM VERSION AND MORE INFORMATION EMAIL ME </H4>
 
-<H3>WHAT IS UNIQUE PANUNISWAP-BOT</h3>
+<H3>WHAT IS UNIQUE PANUNISWAP-BOT</h3>🤠
  
 - Support Windows 10 ,Linux and Mac OS
 - Add uniswap V3 & pancakeswap v2 Fantom Matic Solona KuCoin Chain OKEXchain 
@@ -35,7 +35,7 @@ A Pancakeswap and Uniswap trading client (and bot) with market orders, limit ord
 ![alt text](https://github.com/persianhydra/panUNIswap-bot/blob/main/panUNIswap-bot.gif?raw=true "GIF application")
  
 
-<H2>HOW TO USE</H2>
+<H2>HOW TO USE</H2>🏆
 
 1. An ethereum/bsc address.
 2. Open "configfile.py" (with notepad) on line 3 and 4 add wallet address and phrase or private key.
@@ -46,7 +46,7 @@ A Pancakeswap and Uniswap trading client (and bot) with market orders, limit ord
 <H2>How Find Private Key</H2>
 https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key
 
-<H2>Requirements</H2>
+<H2>Requirements</H2>🖥
 
 - python3
 - pip3 install web3     
@@ -56,7 +56,7 @@ https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Acc
 <H4>ALSO YOU CAN COMPILE PANUNISWAP-BOT TO EXE WITH PYINSTALLER</H4>
 
 
-<H2>Functions</H2>
+<H2>Functions</H2>🧳
 
 <b>Main coin/token</b>: The token or coin you want to trade tokens for and with
 
@@ -97,14 +97,14 @@ If you dont want to wait till the token1 is sold for the maincoinoption, because
 
 
 
-# Screenshot
+# Screenshot📺
 
 <a href="https://ibb.co/CJmgG9M"><img src="https://i.ibb.co/8zNqZxd/2.png" alt="2" border="0"></a>
 
 
 
  
-## Youtube Videos 
+## Youtube Videos 🎥
 
 # WATCH VIDEO == https://youtu.be/zFm15cuYD-c
 
