@@ -3,7 +3,7 @@
 
 <H2>(AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY)</H2>
 <H5>Sniper bot that watches when taxes/anti buy are removed from a contract, then quick snipes, with honeypot detector, and also keybinding for fair launches</H5>
-<H5>UPDATE: MUTI TRADE TOKEN ENABLE ,TRADE 10 TOKEN IN SAME TIME </H5>
+<H5>UPDATE: MUTI TRADE TOKEN ENABLE TRADE 10 TOKEN IN SAME TIME </H5>
 <H5>UPDATE: ADD SUPPORT TRUST WALLET WITH PHRASE KEY </H5>
 
 A Pancakeswap and Uniswap trading client (and bot) with market orders, limit orders, stop-loss, custom gas strategies, a GUI and much more.
