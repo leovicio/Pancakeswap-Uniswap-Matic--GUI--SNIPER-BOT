@@ -332,7 +332,7 @@ class Worker(QObject):
                             'https://api.binance.com/api/v3/ticker/price?symbol=BNBUSDT').json())[
                                   'price']))
 
-                    if len(all_token_information[0]) > 14:
+                    if len(all_token_information[0]) > 14: 
                         for token_number, eth_address, high, low, activate, stoploss_value, stoploss_activate, trade_with_ERC, trade_with_ETH, fast_token, small_case_name, decimals, balance, price, dollar_balance in all_token_information:
                             if str(eth_address) != '0' or '':
                                 token1eth = uniswap_wrapper.get_eth_token_input_price(
