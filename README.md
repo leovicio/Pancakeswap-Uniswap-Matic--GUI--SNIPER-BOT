@@ -31,7 +31,7 @@ A Pancakeswap and Uniswap trading client (and bot) with market orders, limit ord
 - The program now determines the name and decimals of the token automatically
 
 
-![alt text](https://github.com/persianhydra/panUNIswap-bot/blob/main/panUNIswap-bot.gif?raw=true "GIF application")
+![alt text](https://github.com/META-HYDRA/Pancakeswap-SNIPER-with-HONEYPOT-detector/blob/main/TOKENRADER.jpg?raw=true "GIF application")
  
 
 <H2>HOW TO USE</H2>🏆
