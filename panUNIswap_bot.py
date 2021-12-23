@@ -42,7 +42,7 @@ QtWidgets.QApplication.setAttribute(QtCore.Qt.AA_UseHighDpiPixmaps, True)  # use
 def __ne__(self, other):
     return not self.__eq__(other)
 
-
+ 
 cg = CoinGeckoAPI()
 
 
