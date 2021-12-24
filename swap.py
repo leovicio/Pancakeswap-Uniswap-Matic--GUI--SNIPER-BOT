@@ -512,7 +512,7 @@ try :#line:31
                 return {"eth":"0x0000000000000000000000000000000000000000","bat":Web3 .toChecksumAddress ("0x0D8775F648430679A709E98d2b0Cb6250d2887EF"),"dai":Web3 .toChecksumAddress ("0x6b175474e89094c44da98b954eedeac495271d0f"),}#line:914
             elif O0O000OO000O0O0OO =="rinkeby":#line:915
                 return {"eth":"0x0000000000000000000000000000000000000000","bat":"0xDA5B056Cfb861282B4b59d29c9B395bcC238D29B","dai":"0x2448eE2641d78CC42D7AD76498917359D961A783",}#line:920
-            else :#line:921
+            else :#line:921 
                 raise Exception (f"Unknown net '{O0O000OO000O0O0OO}'")#line:922
 except SyntaxError as err :#line:925
     traceback .print_exc ()#line:926
