@@ -8,7 +8,7 @@
 A Pancakeswap and Uniswap trading client (and bot) with market orders, limit orders, stop-loss, custom gas strategies, a GUI and much more.
  
 <a href="https://ibb.co/6Hs7WPt"><img src="https://i.ibb.co/QPm3KNH/pan-UNIswap-bot.jpg" alt="pan-UNIswap-bot" border="0"></a>
-
+ 
 [![Version](https://img.shields.io/badge/Codename-BlackHat-red.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-WINDOWS-orange.svg)]()
@@ -19,7 +19,7 @@ A Pancakeswap and Uniswap trading client (and bot) with market orders, limit ord
 <H4> FOR PREMIUM VERSION AND MORE INFORMATION EMAIL ME </H4>
 
 <H3>WHAT IS UNIQUE PANUNISWAP-BOT</h3>🤠
-
+ 
 - Support Windows 10 ,Linux and Mac OS
 - Add uniswap V3 & pancakeswap v2 Fantom Matic Solona KuCoin Chain OKEXchain 
 - Added multiple DEXs
@@ -30,7 +30,7 @@ A Pancakeswap and Uniswap trading client (and bot) with market orders, limit ord
 - Speed adjustable
 - The program now determines the name and decimals of the token automatically
 
-
+ 
  
 
 <H2>HOW TO USE</H2>🏆
