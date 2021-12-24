@@ -6,7 +6,7 @@
 <H5>UPDATE: MUTI TRADE TOKEN ENABLE TRADE 10 TOKEN IN SAME TIME </H5>
 
 A Pancakeswap and Uniswap trading client (and bot) with market orders, limit orders, stop-loss, custom gas strategies, a GUI and much more.
- 
+
 <a href="https://ibb.co/6Hs7WPt"><img src="https://i.ibb.co/QPm3KNH/pan-UNIswap-bot.jpg" alt="pan-UNIswap-bot" border="0"></a>
  
 [![Version](https://img.shields.io/badge/Codename-BlackHat-red.svg?maxAge=259200)]()
