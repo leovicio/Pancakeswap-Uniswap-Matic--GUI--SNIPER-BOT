@@ -1,6 +1,6 @@
 # GUI Pancakeswap 2 and Uniswap 3 SNIPER BOT 🏆🥇 
 <H5>(MOST ADVANCE TRADING BOT SUPPORT WINDOWS LINUX MAC)</H5>
- 
+
 <H2>(AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY)</H2>
 <H5>Sniper bot that watches when taxes/anti buy are removed from a contract, then quick snipes, with honeypot detector, and also keybinding for fair launches</H5>
 <H5>UPDATE: MUTI TRADE TOKEN ENABLE TRADE 10 TOKEN IN SAME TIME </H5>
